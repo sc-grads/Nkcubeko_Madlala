@@ -1,5 +1,4 @@
 #String Methods
-
 #print(), len(), min(), max(), type(), sum(), round()
 print(len('xfdsa'))
 print(dir(str))

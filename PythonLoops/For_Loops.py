@@ -10,4 +10,3 @@ vowels = 'aeiou'
 for item in my_str:
     if item in vowels:
         print(item, end=' ')
-

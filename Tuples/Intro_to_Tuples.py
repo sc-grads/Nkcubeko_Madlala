@@ -17,6 +17,6 @@ l1 = list(t5)
 print(l1)
 
 print(t5[-1])
-
-
+print(t5)
+print(t6)
 

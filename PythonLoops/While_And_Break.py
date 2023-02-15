@@ -1,10 +1,10 @@
 
-# while True:
-#     guess = int(input('Enter your lucky number [1-10]:'))
-#     if guess == 7:
-#         print('You Won!!!')
-#         break
-#     print(f'Sorry, {guess} was not a lucky number!')
+while True:
+    guess = int(input('Enter your lucky number [1-10]:'))
+    if guess == 7:
+        print('You Won!!!')
+        break
+    print(f'Sorry, {guess} was not a lucky number!')
 
 a = int(input('Enter a number:'))
 while a > 1:
