@@ -1,4 +1,4 @@
-
+# Time Complexity
 import time
 import sys
 l1 = list(range(1_000_000))

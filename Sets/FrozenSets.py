@@ -1,4 +1,4 @@
-
+# Frozen Sets
 fs1 = frozenset({1, 2, 3, 'a'})
 print(fs1, type(fs1))
 
