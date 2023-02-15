@@ -1,3 +1,5 @@
+
+# String Slicing
 movie = 'The Godfather'
 print(movie[0:2])
 print(movie[2:5])
