@@ -17,3 +17,4 @@ print(list(range(2, 52, 5)))
 print(list(range(12, -2, -3)))
 
 print(list(range(22, 2, -3)))
+

@@ -15,3 +15,4 @@ if len(data) > 0:
     print(f'Your name has {len(data)} characters.')
 else:
     print('Your name cannot be empty!')
+
