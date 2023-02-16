@@ -10,3 +10,4 @@ t1 = (1, 2, 3, 4, 5, 6)
 
 print(f'List memory size: {sys.getsizeof(l1)}')
 print(f'Tuple memory size: {sys.getsizeof(t1)}')
+
