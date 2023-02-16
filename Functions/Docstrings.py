@@ -1,6 +1,7 @@
 
 print(len('Python is cool!!'))
 
+
 def say_hello(name):
     """
     This function says hello to you!

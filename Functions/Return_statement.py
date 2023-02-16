@@ -23,6 +23,7 @@ print(add1(4,5))
 def my_func(x):
     return x, x **2, x**3, x**4
 
+
 print(my_func(3))
 a, b, c, d = my_func(5)
 print(a, b, c, d)
