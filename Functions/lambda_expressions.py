@@ -14,7 +14,9 @@ friends = [('Dainaaaaa', 30), ('Aaaaaaaaana', 25), ('Tudor', 22)]
 friends.sort(key=lambda x: len(x[0]))
 print(friends)
 
+area = lambda length: length ** 2
 
+print(area(2.5))  # => 6.25
 
 
 

@@ -44,6 +44,19 @@ print('10.0.0.1' in ip_list)
 print('10.0.0.1' not in ip_list)
 print('10' in ip_list)
 
+# List with duplicates
+mac = ['b4:6d:83:77:85:f3', 'b4:6d:83:77:85:f3', 'a4:6d:83:77:85:f4', 'c4:6d:83:77:85:f3', 'b4:6d:83:77:85:f3']
+
+# New empty list
+mac_unique = list()
+
+# Iterate over the list
+for item in mac:
+    if item not in mac_unique:  # check if each element is already in mac_unique list
+        mac_unique.append(item)  # add it if it's not in the mac_unique list
+
+print(mac_unique)
+
 
 
 
