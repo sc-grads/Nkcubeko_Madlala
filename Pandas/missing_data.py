@@ -34,3 +34,4 @@ df['B'].fillna(value=100)
 
 ## Calculate the value it will fill using other Pandas functions.
 df['B'].fillna(value=df['B'].mean())
+
