@@ -15,5 +15,5 @@
 # tn.write(b'show ip interface brief\n')
 # tn.write(b'exit\n')
 #
-#
-#
+
+
