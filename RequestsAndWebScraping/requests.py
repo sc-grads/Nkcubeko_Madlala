@@ -1,18 +1,17 @@
-# #################################
+# ################################
 # ## Working with requests
 # ## requests module implements the HTTP prococol
-# #################################
-#
+
 # ## Importing the module
 # import requests
-#
+
 # url = 'https://www.python.org'
 #
 # ## Sending a GET request to the server (www.python.org) and saving the response
 # response = requests.get(url)
 #
 # print(type(response))  # => Response Object
-#
+
 # # All HTTP response status codes are separated into five classes (or categories)
 # # There are five values for the first digit:
 # # 1xx (Informational): The request     was received, continuing process
