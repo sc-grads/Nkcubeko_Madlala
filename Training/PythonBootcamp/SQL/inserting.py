@@ -9,8 +9,8 @@ connection = sqlite3.connect('my_database.db')
 ## Creating a cursor object
 cursor = connection.cursor()
 
-## Creating Sql Statements as a multiline string
-## These Sql statements insert 3 records in employees table
+## Creating SQLServer Statements as a multiline string
+## These SQLServer statements insert 3 records in employees table
 sql = """
 INSERT INTO employees (id, name, department, phone, email) VALUES (1, "John Smith", "IT", "+123456789", "johns@mycompany.com");
 INSERT INTO employees VALUES (2, "Anne Barker", "Accounting", "+155345789", "anne@mycompany.com");

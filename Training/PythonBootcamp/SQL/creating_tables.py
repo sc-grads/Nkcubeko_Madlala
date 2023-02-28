@@ -11,7 +11,7 @@ connection = sqlite3.connect('my_database.db')
 ## Creating a cursor object
 c = connection.cursor()
 
-## Creating an Sql Statement as a multiline string
+## Creating an SQLServer Statement as a multiline string
 ## This sql creates a table with 5 fields (columns)
 sql = """
         CREATE TABLE IF NOT EXISTS employees (
