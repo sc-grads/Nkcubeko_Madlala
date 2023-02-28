@@ -9,4 +9,3 @@ UPDATE [dbo].[personalDetails]
  WHERE [firstName] = 'Lizwe'
 GO
 
-

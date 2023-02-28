@@ -18,7 +18,6 @@ GO
 
 
 
-
 CREATE TABLE [dbo].[personalDetails](
 	[firstName] [varchar](50) NULL,
 	[lastName] [varchar](50) NULL,

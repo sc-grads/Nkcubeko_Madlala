@@ -15,3 +15,4 @@ GO
 
 select * from [dbo].[personalDetails]
 GO
+
