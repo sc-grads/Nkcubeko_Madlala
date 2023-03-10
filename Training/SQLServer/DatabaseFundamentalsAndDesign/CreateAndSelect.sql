@@ -5,7 +5,6 @@ last_name VARCHAR(50) NOT NULL,
 visited_at DATETIME,
 phone VARCHAR(20),
 store_id INT NOT NULL,
-
 )
 
 CREATE TABLE [AdventureWorks2019].[sales].[storenew](
