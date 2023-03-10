@@ -1,0 +1,20 @@
+form{
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 20px;
+}
+
+h2{
+  color: green;
+  text-align: center;
+}
+
+label{
+  display: inline-block;
+  width: 120px;
+  text-align: right;
+  margin-right: 20px;
+  color: navy
+}
+
