@@ -9,7 +9,6 @@ def user_has_permission(func):
 def show_pass():
     return 'ds32k@w1'
 
-
 my_function = user_has_permission(show_pass)
 print(my_function())
 
